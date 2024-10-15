@@ -1,2 +1,5 @@
-# toxiproxy101
-Use toxiproxy to change request/response in HTTP
+# Toxiproxy 101
+
+## Introduction
+
+Use toxiproxy to change request/response in HTTP.
